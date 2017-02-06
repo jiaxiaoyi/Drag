@@ -1,6 +1,7 @@
 ;
 (function(window, undefined) {
 
+//this is for git
     var methods = {
         on: function(node, eventname, handler) { // 注册事件
             if (node.addEventListener) {
